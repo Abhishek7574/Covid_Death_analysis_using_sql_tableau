@@ -31,7 +31,8 @@ The visualizations of the data were created using Tableau. Feel free to explore 
 
 ## SQL Query
 
-The SQL query used for extracting the data can be found [here](link_to_sql_query).
+The SQL query used for extracting the data can be found 
+[here](https://github.com/Abhishek7574/Covid_Death_analysis_using_sql_tableau/blob/4ba39982b5d63b55775a2e49cbb6ff529faaf03e/sql%20covid%20final%20project.sql).
 
 ### Data Exploration and Ordering
 - Explored COVID-19 death data.
