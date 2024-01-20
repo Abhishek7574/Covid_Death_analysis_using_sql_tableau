@@ -69,13 +69,12 @@ The SQL query used for extracting the data can be found
 2. **Tableau_visualization/**
    - Folder containing Tableau-related files.
      - `Tableau_visualization_link.txt`: File containing the link to the Tableau visualization.
-     - `covid_Dashboard_static.png`: Static image version of the Tableau visualization.
-
+     
 3. **sql covid final project.sql**
    - SQL file containing the queries used to extract data from the original dataset.
 
-4. **covid_Data.xlsx**
-   - Excel file containing the dataset split into COVID deaths and people vaccinated.
+4. **covid_Dashboard_static.png**
+   - Static image version of the Tableau visualization.
 
 5. **README.md**
    - Markdown file providing an overview of the repository and the data processing steps.
