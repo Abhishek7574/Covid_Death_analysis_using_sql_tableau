@@ -20,14 +20,6 @@ This repository contains data related to COVID-19 sourced from Our World in Data
 
 8. **Interactive Dashboards:** The visualizations were used to create interactive dashboards, providing insights into various aspects of the COVID-19 data.
 
-## Tables
-
-1. [Table 1](link_to_table1_excel)
-2. [Table 2](link_to_table2_excel)
-3. [Table 3](link_to_table3_excel)
-4. [Table 4](link_to_table4_excel)
-5. [Table 5](link_to_table5_excel)
-6. [Table 6](link_to_table6_excel)
 
 ## Visualization
 The visualizations of the data were created using Tableau. Feel free to explore and interact with the visualizations.
