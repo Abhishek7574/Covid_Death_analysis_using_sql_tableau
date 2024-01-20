@@ -4,8 +4,7 @@ This repository contains data related to COVID-19 sourced from Our World in Data
 
 ## Data Processing
 
-1. **Data Extraction:** The original data was obtained from [Our World in Data](https://ourworldindata.org/covid-deaths)
-.
+1. **Data Extraction:** The original data was obtained from [Our World in Data](https://ourworldindata.org/covid-deaths).
 
 2. **Data Splitting:** The data was split into two Excel files: one for COVID deaths and another for people vaccinated.
 
@@ -14,6 +13,12 @@ This repository contains data related to COVID-19 sourced from Our World in Data
 4. **Querying:** SQL queries were performed to extract detailed information country-wise and continent-wise.
 
 5. **Table Extraction:** The results of the queries were organized into six different tables.
+
+6. **Export to Excel:** The tables extracted from the SQL database were exported as Excel files for further analysis.
+
+7. **Tableau Visualization:** The Excel files were utilized in Tableau for creating visualizations.
+
+8. **Interactive Dashboards:** The visualizations were used to create interactive dashboards, providing insights into various aspects of the COVID-19 data.
 
 ## Tables
 
@@ -63,8 +68,6 @@ The SQL query used for extracting the data can be found
 - Various queries focus on different aspects such as death count, infection rates, and vaccination percentages.
 - Ensure the database is properly structured and data is loaded before running queries.
 - Customize filters such as `WHERE` conditions to suit your specific dataset.
-
-Feel free to customize these points further based on the specific details of your analysis and preferences.
 
 ## Notes
 - The data used in this analysis is up to December 2023.
