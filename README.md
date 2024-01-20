@@ -4,7 +4,8 @@ This repository contains data related to COVID-19 sourced from Our World in Data
 
 ## Data Processing
 
-1. **Data Extraction:** The original data was obtained from [Our World in Data](https://ourworlddata.org).
+1. **Data Extraction:** The original data was obtained from [Our World in Data](https://ourworldindata.org/covid-deaths)
+.
 
 2. **Data Splitting:** The data was split into two Excel files: one for COVID deaths and another for people vaccinated.
 
@@ -16,18 +17,18 @@ This repository contains data related to COVID-19 sourced from Our World in Data
 
 ## Tables
 
-1. [Table - COVID Deaths by Country](link_to_table1_excel)
-2. [Table - COVID Deaths by Continent](link_to_table2_excel)
-3. [Table - Vaccination Data by Country](link_to_table3_excel)
-4. [Table - Vaccination Data by Continent](link_to_table4_excel)
-5. [Table - Combined COVID Data by Country](link_to_table5_excel)
-6. [Table - Combined COVID Data by Continent](link_to_table6_excel)
+1. [Table 1](link_to_table1_excel)
+2. [Table 2](link_to_table2_excel)
+3. [Table 3](link_to_table3_excel)
+4. [Table 4](link_to_table4_excel)
+5. [Table 5](link_to_table5_excel)
+6. [Table 6](link_to_table6_excel)
 
 ## Visualization
 
-The visualizations of the data were created using [Tableau](link_to_tableau_visualization). Feel free to explore and interact with the visualizations.
+The visualizations of the data were created using Tableau. Feel free to explore and interact with the visualizations.
 
-[Link to Tableau Visualization](link_to_tableau_visualization)
+[Explore the Global Data on Confirmed COVID-19 Deaths](https://public.tableau.com/views/ExploretheglobaldataonconfirmedCOVID-19deaths/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## SQL Query
 
@@ -36,8 +37,9 @@ The SQL query used for extracting the data can be found [here](link_to_sql_query
 ## Notes
 
 - The data used in this analysis is up to December 2023.
-- Please refer to the original data source [Our World in Data](https://ourworlddata.org) for any updates or additional information.
+- Please refer to the original data source [Our World in Data - COVID-19 Deaths](https://ourworldindata.org/covid-deaths) for any updates or additional information.
 
-Feel free to use, share, and contribute to this repository. If you have any questions or suggestions, please open an issue or contact [your_username](link_to_your_github_profile).
+Feel free to use, share, and contribute to this repository. If you have any questions or suggestions, please open an issue or contact [Abhishek kumar](www.linkedin.com/in/abhishek-kumar-b22786289)
+.
 
 Happy Analyzing!
