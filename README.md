@@ -83,7 +83,7 @@ The SQL query used for extracting the data can be found
 - The data used in this analysis is up to December 2023.
 - Please refer to the original data source [Our World in Data - COVID-19 Deaths](https://ourworldindata.org/covid-deaths) for any updates or additional information.
 
-Feel free to use, share, and contribute to this repository. If you have any questions or suggestions, please open an issue or contact [Abhishek kumar](www.linkedin.com/in/abhishek-kumar-b22786289)
+Feel free to use, share, and contribute to this repository. If you have any questions or suggestions, please open an issue or contact [Abhishek kumar](www.linkedin.com/in/abhishek-kumar0032)
 .
 
 Happy Analyzing!
